@@ -1,0 +1,27 @@
+body {
+    background-color: navy;
+    padding: 20px;
+    color: white;
+}
+
+.omelette {
+    color: red;
+    background-color: orange;
+    font-family: fantasy;
+    width: 300px;
+}
+
+ul {
+    display: block;
+    width: 200px;
+    background-color: lightblue;
+    color: black;
+}
+
+h2 {
+    color: greenyellow;
+}
+
+h3 {
+    color: red;
+}
